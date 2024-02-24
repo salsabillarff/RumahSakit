@@ -48,8 +48,7 @@
           <div class="jumbotron">
             <h3>Rumah Sakit Medika</h3>
             <p>Rumah sakit ini ditujukan kepada orang-orang yang kurang mampu namun sangat memerlukan pengobatan medis.Apabila tidak punya biaya namun sudah sangat parah,Segeralah datang kerumah sakit Medika.  </p>
-            <p><a class="btn btn-warning btn-lg" href="beasiswa_d3.php" role="button">Detail Rumah Sakit</a>
-            <a class="btn btn-danger btn-lg" href="daftar_beasiswa.php"role="button">Daftar Berobat</a></p>
+  
         </div>
       </div>
     </div>
